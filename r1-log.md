@@ -35,3 +35,8 @@ Thoughts: David Mahan's lectures stretch on for over an hour and a half. Lecture
 Link to work: https://github.com/submit50/levimllr
 
 ### R1D6 :: Tuesday, the 4th of December
+Today's Progress: Completed Whodunit from PSET4 of CS50x.
+
+Thoughts: This part of the problem set was a deep dive in the structure of a file, taking me to the granularity of individual bytes. The task seemed overwhelming, until I realized that the powers that be had all but given the answer away. All I wrote was a simple if statement to change the byte values of a pixel (or RGB TRIPLE) to different values! Nonetheless, the assignment was a valuable exploration of file formats. I'm excited to cut my teeth on the next part of the problem set tomorrow.
+
+Link to work: https://github.com/submit50/levimllr
