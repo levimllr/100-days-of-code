@@ -39,4 +39,26 @@ Today's Progress: Completed Whodunit from PSET4 of CS50x.
 
 Thoughts: This part of the problem set was a deep dive in the structure of a file, taking me to the granularity of individual bytes. The task seemed overwhelming, until I realized that the powers that be had all but given the answer away. All I wrote was a simple if statement to change the byte values of a pixel (or RGB TRIPLE) to different values! Nonetheless, the assignment was a valuable exploration of file formats. I'm excited to cut my teeth on the next part of the problem set tomorrow.
 
-Link to work: https://github.com/submit50/levimllr
+Link to work: It was Professor Plum with the candlestick in the library.
+
+### R1D7 :: Wednesday , the 5th of December
+Today's Progress: Started Resize from PSET4 of CS50x.
+
+Thoughts: The problems seem to get bigger, but really they're just deeper. I had to squeeze in my hour of code in between commitments at work and with my wife, and I got a lay of the land. I studied the header structure of the BITMAP only to feel totally lost as to how to reassign values to its different elements.
+
+Link to work: None.
+
+### R1D8 :: Thursday, the 6th of December
+Today's Progress: Continued Resize from PSET4 of CS50x.
+
+Thoughts: Today was a hard day. I felt tired. Maybe I was a little size or rundown. I've been really hard on myself. I came home and slept for an hour. Then I ate and played video games and chatted with my wife. Not until around 8:30 did I muster up the gumption to peer at code again. Feeling totally lost on an assignment takes the wind out of your sails. Nagging doubts about the economy, state of the world, future employability... well, those don't do you any favors either. I tried to go easy on myself and spied a solution to the Resize problem, using it to understand what was possible and how to assign new values to the header. I still don't totally understand it, so I'm going to peer into the supplemental videos and the previous assignment tomorrow.
+
+Link to work: None.
+
+### R1D9 :: Friday, the 7th of December
+Today's Progress:
+
+Thoughts:
+
+Link to work:
+
