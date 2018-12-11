@@ -34,31 +34,59 @@ Thoughts: David Mahan's lectures stretch on for over an hour and a half. Lecture
 
 Link to work: https://github.com/submit50/levimllr
 
-### R1D6 :: Tuesday, the 4th of December
+### R1D7 :: Tuesday, the 4th of December (4/7)
 Today's Progress: Completed Whodunit from PSET4 of CS50x.
 
 Thoughts: This part of the problem set was a deep dive in the structure of a file, taking me to the granularity of individual bytes. The task seemed overwhelming, until I realized that the powers that be had all but given the answer away. All I wrote was a simple if statement to change the byte values of a pixel (or RGB TRIPLE) to different values! Nonetheless, the assignment was a valuable exploration of file formats. I'm excited to cut my teeth on the next part of the problem set tomorrow.
 
 Link to work: It was Professor Plum with the candlestick in the library.
 
-### R1D7 :: Wednesday , the 5th of December
+### R1D8 :: Wednesday , the 5th of December (5/8)
 Today's Progress: Started Resize from PSET4 of CS50x.
 
 Thoughts: The problems seem to get bigger, but really they're just deeper. I had to squeeze in my hour of code in between commitments at work and with my wife, and I got a lay of the land. I studied the header structure of the BITMAP only to feel totally lost as to how to reassign values to its different elements.
 
 Link to work: None.
 
-### R1D8 :: Thursday, the 6th of December
+### R1D9 :: Thursday, the 6th of December (6/9)
 Today's Progress: Continued Resize from PSET4 of CS50x.
 
 Thoughts: Today was a hard day. I felt tired. Maybe I was a little size or rundown. I've been really hard on myself. I came home and slept for an hour. Then I ate and played video games and chatted with my wife. Not until around 8:30 did I muster up the gumption to peer at code again. Feeling totally lost on an assignment takes the wind out of your sails. Nagging doubts about the economy, state of the world, future employability... well, those don't do you any favors either. I tried to go easy on myself and spied a solution to the Resize problem, using it to understand what was possible and how to assign new values to the header. I still don't totally understand it, so I'm going to peer into the supplemental videos and the previous assignment tomorrow.
 
 Link to work: None.
 
-### R1D9 :: Friday, the 7th of December
-Today's Progress:
+### R1D9 :: Friday, the 7th of December (6/10)
+Today's Progress: None.
 
-Thoughts:
+Thoughts: Like yesterday, I felt down and out. I let the feelings take me, and I didn't code.
+
+Link to work: None.
+
+### R1D10 :: Saturday, the 8th of December (7/11)
+Today's Progress: Completed PSET4.
+
+Thoughts: After some grappling with the problem set and poring over Stack Overflow and other programming blogs, I figured out how to implement Resize and Recover in CS50x'a PSET4. I didn't feel quite as accomplished, as I had to pretty well read everyone else's struggles and tips to figure my situation out, but the results of my work were cool! And I understood its function./
+
+Link to work: https://github.com/submit50/levimllr
+
+### R1D11 :: Sunday, the 9th of December (8/12)
+Today's Progress:  Watch an hour of CS50x's Week 4 lecture.
+
+Thoughts: I was too tired after a couple of holiday parties the night before to make much progress. I did find the courage to dip into the next of David J. Malan's lectures. Does this study count as code?
+
+Link to work: None.
+
+### R1D12 :: Monday, the 10th of December (9/13)
+Today's Progress: Finish watching the Week 4 lecture, begin PSET5.
+
+Thoughts: This next problem looks like a real whammy. I am wondering what I am learning by jumping into such a deep pool of concepts such as linked lists, hash tables, and tries. I trust I'll come out the other side with a firmer handle on what exactly we are doing as computer scientists, software developers, programmers, whathaveyou. The scope of the lone problem in the PSET alone is a challenge!
+
+Link to work: None.
+
+### R1D13 :: Monday, the 10th of December (10/14)
+Today's Progress: 
+
+Thoughts: 
 
 Link to work:
 
