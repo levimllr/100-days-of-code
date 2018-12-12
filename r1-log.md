@@ -55,38 +55,44 @@ Thoughts: Today was a hard day. I felt tired. Maybe I was a little size or rundo
 
 Link to work: None.
 
-### R1D9 :: Friday, the 7th of December (6/10)
+### R1D10 :: Friday, the 7th of December (6/10)
 Today's Progress: None.
 
 Thoughts: Like yesterday, I felt down and out. I let the feelings take me, and I didn't code.
 
 Link to work: None.
 
-### R1D10 :: Saturday, the 8th of December (7/11)
+### R1D11 :: Saturday, the 8th of December (7/11)
 Today's Progress: Completed PSET4.
 
 Thoughts: After some grappling with the problem set and poring over Stack Overflow and other programming blogs, I figured out how to implement Resize and Recover in CS50x'a PSET4. I didn't feel quite as accomplished, as I had to pretty well read everyone else's struggles and tips to figure my situation out, but the results of my work were cool! And I understood its function./
 
 Link to work: https://github.com/submit50/levimllr
 
-### R1D11 :: Sunday, the 9th of December (8/12)
+### R1D12 :: Sunday, the 9th of December (8/12)
 Today's Progress:  Watch an hour of CS50x's Week 4 lecture.
 
 Thoughts: I was too tired after a couple of holiday parties the night before to make much progress. I did find the courage to dip into the next of David J. Malan's lectures. Does this study count as code?
 
 Link to work: None.
 
-### R1D12 :: Monday, the 10th of December (9/13)
+### R1D13 :: Monday, the 10th of December (9/13)
 Today's Progress: Finish watching the Week 4 lecture, begin PSET5.
 
 Thoughts: This next problem looks like a real whammy. I am wondering what I am learning by jumping into such a deep pool of concepts such as linked lists, hash tables, and tries. I trust I'll come out the other side with a firmer handle on what exactly we are doing as computer scientists, software developers, programmers, whathaveyou. The scope of the lone problem in the PSET alone is a challenge!
 
 Link to work: None.
 
-### R1D13 :: Monday, the 10th of December (10/14)
-Today's Progress: 
+### R1D14 :: Tuesday, the 11th of December (10/14)
+Today's Progress: Continued wrestling with PSET5: coding the backend of a spellchecker.
 
-Thoughts: 
+Thoughts: Speller is a tremendous problem. I am proud to say morale is high; I would be happy to spend all day tomorrow working on it if I didn't have to go to work. I am trying to learn the fundamentals: what is a linked list vs a hash table vs a trie, how do nodes and pointers work, in what manner and fashion to we allocate and reallocate memory. What does C mean?! I have four functions to complete, and I am chipping away at the first. I learned to part structures and custom types and have decided on using a hash table for beginner's sake. I still haven't really written lines of code perse, but I am certainly learning to read them, and that is the first step!
+
+Link to work: None.
+
+### R1D15 :: Wednesday, the 12th of December (/15)
+Today's Progress:
+
+Thoughts:
 
 Link to work:
-
