@@ -90,9 +90,9 @@ Thoughts: Speller is a tremendous problem. I am proud to say morale is high; I w
 
 Link to work: None.
 
-### R1D15 :: Wednesday, the 12th of December (/15)
-Today's Progress:
+### R1D15 :: Wednesday, the 12th of December (11/15)
+Today's Progress: Hashed out hash tables. Started wrapping my mind around linked lists.
 
-Thoughts:
+Thoughts: So Speller is a really huge problem for a beginner like myself. I've stated this fact the previous two days, and now I realize how unsystematic I've been in tackling it. That just won't do! What are takeaways? Make sure you (I) can implement the basics, basic functions, loops, structures, etc that will eventually comprise the final program. I've assumed I can watch videos, write a few notes, and shoot from the hip. It's clear I don't truly understand what's going on. I'm excited to go over everything with a finer toothed comb tomorrow. And let's keep in mind: What is the goal? What do I want?
 
-Link to work:
+Link to work: None.
