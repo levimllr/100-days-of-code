@@ -96,3 +96,17 @@ Today's Progress: Hashed out hash tables. Started wrapping my mind around linked
 Thoughts: So Speller is a really huge problem for a beginner like myself. I've stated this fact the previous two days, and now I realize how unsystematic I've been in tackling it. That just won't do! What are takeaways? Make sure you (I) can implement the basics, basic functions, loops, structures, etc that will eventually comprise the final program. I've assumed I can watch videos, write a few notes, and shoot from the hip. It's clear I don't truly understand what's going on. I'm excited to go over everything with a finer toothed comb tomorrow. And let's keep in mind: What is the goal? What do I want?
 
 Link to work: None.
+
+### R1D16 :: Thursday, the 13th of December (12/16)
+Today's Progress: Practiced Dynamic Memory Allocation and Pointers.
+
+Thoughts: I need practice. Fortunately, I found https://study.cs50.net/ which features crisply distilled notes from CS50 and plenty of little exercises to practice core concepts. I believe I understand pointers (better). "A pointer is a variable that stores memory addresses." The value of the pointer is the memory address, which the type of pointer describes the type of data at that address. For example, "char* str = "what";" gives the address of the series of characters of what. "int* a = 7;" gives the address in memory of an integer 7. Calling * a gives the value while & a gives the address. I belive we are making baby steps. I'm eager to move on to other things, but I (believe I) need to understand these basics. I have to hunker down and focus and believe I can do this!!!
+
+Link to work: None.
+
+### R1D17 :: Thursday, the 13th of December (13/17)
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: None.
