@@ -104,9 +104,30 @@ Thoughts: I need practice. Fortunately, I found https://study.cs50.net/ which fe
 
 Link to work: None.
 
-### R1D17 :: Thursday, the 13th of December (13/17)
-Today's Progress: 
+### R1D17-R1D18 :: Friday, the 14th of December to Saturday, the 15th of December (12/18)
+Today's Progress: None.
 
-Thoughts: 
+Thoughts: Holiday parties, chores, and the siren song of the weekend lured me away from my programming practice.
 
 Link to work: None.
+
+### R1D19 :: Sunday, the 16th of December (13/19)
+Today's Progress: Wrestling with Linked Lists.
+
+Thoughts: I am struggling to understand linked lists and the nodes and pointers they require! I trust that by practicing problems, things will sync in. I did learn how to commit work to GitHub from Cloud9, so I can now have a record of activity on GitHub! Woo! 
+
+Link to work: https://github.com/levimllr/c9test
+
+### R1D20 :: Monday, the 17th of December (14/20)
+Today's Progress: Continued struggling with Linked Lists.
+
+Thoughts: Every bit of time that passes with these things, I can feel that I can come closer to that mystical "Aha!" moment. I have been commenting code extensively and trying to backwards map solutions to other problems to speed my own process up. It's hard to put a timeline on learning, but I feel the pressure to move on to other things. I have started practicing at HackerRank to keep my Python fresh and to put my finger on the pulse of regular coding exercises. In all of the studying that I've been doing (videos watched, forums scanned, notes read), I cannot forget to just write lines of code. At this stage in the game, it's critical for me to keep that balance.
+
+Link to work: https://github.com/levimllr/c9test
+
+### R1D21 :: Tuesday, the 18th of December (15/21)
+Today's Progress: Continued struggling with Linked Lists.
+
+Thoughts: Every bit of time that passes with these things, I can feel that I can come closer to that mystical "Aha!" moment. I have been commenting code extensively and trying to backwards map solutions to other problems to speed my own process up. It's hard to put a timeline on learning, but I feel the pressure to move on to other things. I have started practicing at HackerRank to keep my Python fresh and to put my finger on the pulse of regular coding exercises. In all of the studying that I've been doing (videos watched, forums scanned, notes read), I cannot forget to just write lines of code. At this stage in the game, it's critical for me to keep that balance.
+
+Link to work: https://github.com/levimllr/c9test
