@@ -131,3 +131,10 @@ Today's Progress: Continued struggling with Linked Lists.
 Thoughts: Every bit of time that passes with these things, I can feel that I can come closer to that mystical "Aha!" moment. I have been commenting code extensively and trying to backwards map solutions to other problems to speed my own process up. It's hard to put a timeline on learning, but I feel the pressure to move on to other things. I have started practicing at HackerRank to keep my Python fresh and to put my finger on the pulse of regular coding exercises. In all of the studying that I've been doing (videos watched, forums scanned, notes read), I cannot forget to just write lines of code. At this stage in the game, it's critical for me to keep that balance.
 
 Link to work: https://github.com/levimllr/c9test
+
+### R1D22 :: Wednesday, the 19th of December (16/22)
+Today's Progress: HackerRank Day 8 of 30 Days of Code, Cash and Fahrenheit problems of CS50x/AP
+
+Thoughts: Today was another hard day, ala Day 9. I'm really proud that I was disciplined enough to put in the time that I did, but I definitely felt in an mental-emotional slump that began with the beginning of the day and spiralled down, down, down until about 4:00 PM, when my wife told me it was okay to just chill out. I don't feel like I can afford to chill out, not when I'm trying to change careers in 8 months. I've been plugging through problems on HackerRank, which has been good Python review for me and may help me prepare for job interviews. According to reports I've read, the most in demand languages will be JavaScript, Python, and C++. I'm excited to jump on JavaScript, but I have to take care that I don't jump ship for its newness. CS50x PSET5 calls. I trust that with great blocks of time this break, I can crack the nut. I'm planning on at least 10 solid days of bootcamp, days of finishing CS50x, mapping the next few months of learning to job opportunities, and conceptualizing projects which I and potential employers will be struck by and interested in.
+
+Link to work: https://github.com/levimllr/c9test
