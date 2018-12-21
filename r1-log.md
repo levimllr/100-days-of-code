@@ -138,3 +138,17 @@ Today's Progress: HackerRank Day 8 of 30 Days of Code, Cash and Fahrenheit probl
 Thoughts: Today was another hard day, ala Day 9. I'm really proud that I was disciplined enough to put in the time that I did, but I definitely felt in an mental-emotional slump that began with the beginning of the day and spiralled down, down, down until about 4:00 PM, when my wife told me it was okay to just chill out. I don't feel like I can afford to chill out, not when I'm trying to change careers in 8 months. I've been plugging through problems on HackerRank, which has been good Python review for me and may help me prepare for job interviews. According to reports I've read, the most in demand languages will be JavaScript, Python, and C++. I'm excited to jump on JavaScript, but I have to take care that I don't jump ship for its newness. CS50x PSET5 calls. I trust that with great blocks of time this break, I can crack the nut. I'm planning on at least 10 solid days of bootcamp, days of finishing CS50x, mapping the next few months of learning to job opportunities, and conceptualizing projects which I and potential employers will be struck by and interested in.
 
 Link to work: https://github.com/levimllr/c9test
+
+### R1D23 :: Thursday, the 20th of December (17/23)
+Today's Progress: HackerRank Day 9 of 30 Days of Code. Finally got PSET5 to compile!
+
+Thoughts: Aaaaand we're back! I tore back into PSET5, rewatching the impeccable yet elusive walkthroughs provided by CS50 and piecing together the needed materials from my own grown knowledge and bits and pieces from Reddit and Stack Overflow. I got the darn thing to compile! The load() function, responsible for loading a dictionary file into the program, is not totally working correctly. These problems are due to my own elusive grasp of pointers. I know what they are, but clearly I do not yet understand them. Regardless, today marked a day where I felt much more capable and literate than I have previously. We're going to make it! One step at a time...
+
+Link to work: https://github.com/levimllr/cs50x_speller
+
+### R1D24 :: Friday, the 21st of December (18/24)
+Today's Progress:
+
+Thoughts:
+
+Link to work:
