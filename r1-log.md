@@ -147,6 +147,13 @@ Thoughts: Aaaaand we're back! I tore back into PSET5, rewatching the impeccable 
 Link to work: https://github.com/levimllr/cs50x_speller
 
 ### R1D24 :: Friday, the 21st of December (18/24)
+Today's Progress: Pushed updates to PSET5 practice. 
+
+Thoughts: Today marked the Winter Solstice, and the last day of school for 16-and-a-half days. To celebrate, I didn't do too much. I kept some streaks going, though, to be sure. I pushed some code in the CS50 IDE that I had added yesterday or the day before and neglected to update to Git. For that, I'll give myself a day. Play smarter, not harder! Keep those cards close to your chest! And get ready to kick some ass this break, because, going forward, Friday evening is the only break your going to get. Let's relive junior year of Mines all over again.
+
+Link to work: https://github.com/levimllr/c9test
+
+### R1D24 :: Friday, the 21st of December (19/25)
 Today's Progress:
 
 Thoughts:
