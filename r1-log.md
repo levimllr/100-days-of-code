@@ -153,9 +153,24 @@ Thoughts: Today marked the Winter Solstice, and the last day of school for 16-an
 
 Link to work: https://github.com/levimllr/c9test
 
-### R1D24 :: Friday, the 21st of December (19/25)
+### R1D25 :: Saturday, the 22nd of December (18/25)
+Today's Progress: None.
+
+Thoughts: I went up to Bay with my bae and was pretty fatigued today. Not knowing exactly what to spend time on, I just let go of committing to an hour of code.
+
+Link to work: None.
+
+### R1D26 :: Sunday, the 23rd of December (19/26)
+Today's Progress: Lecture 7 of Week 6 of CS50x and 1 HackerRank challenge.
+
+Thoughts: Every little bit counts! I was inspired by the lecture on dynamic programming to come up with algorithms for my Seating Smart seating chart app. Can't wait to get to work on it! Busy with family and friend stuff. Of course, it is the holidays!
+
+Link to work: None.
+
+### R1D27 :: Monday, the 24th of December (20/27)
 Today's Progress:
 
 Thoughts:
 
 Link to work:
+
