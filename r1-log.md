@@ -167,10 +167,23 @@ Thoughts: Every little bit counts! I was inspired by the lecture on dynamic prog
 
 Link to work: None.
 
-### R1D27 :: Monday, the 24th of December (20/27)
-Today's Progress:
+### R1D27-R1D29 :: Monday, the 24th of December to Wednesday, the 26th of December (19/29)
+Today's Progress: The Holidays.
 
-Thoughts:
+Thoughts: The Holidays.
 
-Link to work:
+Link to work: The Holidays.
 
+### R1D30 :: Thursday, the 27th of December (20/30)
+Today's Progress: FINALLY FINISHED PSET5! Lectures 8 and 9 of Weeks 7 and 8 of CS50x. Part of PSET6.
+
+Thoughts: Today was Day 1 of my homebrewed coding boot camp. My goals: finish CS50x by the end of year and launch into the next chapter of self-development of becoming a developer. It's so nice having full days to work!
+
+Link to work: https://github.com/levimllr/cs50x_speller, https://github.com/levimllr/cs50x-pset6
+
+### R1D31 :: Thursday, the 27th of December (21/31)
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
