@@ -181,7 +181,21 @@ Thoughts: Today was Day 1 of my homebrewed coding boot camp. My goals: finish CS
 
 Link to work: https://github.com/levimllr/cs50x_speller, https://github.com/levimllr/cs50x-pset6
 
-### R1D31 :: Thursday, the 27th of December (21/31)
+### R1D31 :: Friday, the 28th of December (21/31)
+Today's Progress: Completed PSET6, porting several previous programs to Python and implementing a website which compares strings.
+
+Thoughts: Day 2 of Slipper Camp. I am getting more and more excited now! Dynamic websites are so cool and useful and CS50 is breaking out all kinds of cool tools to build them: Python, HTML, CSS, SQL, Flask, Jinja, and so on...
+
+Link to work: https://github.com/levimllr/cs50x-pset6
+
+### R1D32 :: Saturday, the 29th of December (22/32)
+Today's Progress: Completed PSET7, creating a website that facilitates virtual stock trading.
+
+Thoughts: Day 3 of Loafer Camp. The rubber is truly meeting the road in the sense that I am in the zone and loving building things. I worked from 7:30 AM to 9:30 PM with a few breaks in between. I feel like I can make anything, and understand the basic underpinnings of how web apps work. I just want to keep building things! Until tomorrow...
+
+Link to work: https://github.com/levimllr/cs50x_finance
+
+### R1D33 :: Sunday, the 30th of December (23/33)
 Today's Progress: 
 
 Thoughts: 
