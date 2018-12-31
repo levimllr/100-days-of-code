@@ -196,6 +196,13 @@ Thoughts: Day 3 of Loafer Camp. The rubber is truly meeting the road in the sens
 Link to work: https://github.com/levimllr/cs50x_finance
 
 ### R1D33 :: Sunday, the 30th of December (23/33)
+Today's Progress: Completed PSET8, creating a website that displays local news using the Google News and Google Maps APIs.
+
+Thoughts: Day 4 of Pajama Camp. This assignment was really tough. It was tough because it involved so many languages, libraries, APIs, and a slew of trappings I might have overlooked. I got emotionally frustrated at one point today, partially because of the pressure I'm feeling to "progress" in my abilities at an appropriate pace and close out this class. I'm excited to take on the final project and work on something of my own design!
+
+Link to work: https://github.com/levimllr/cd50x-mashup
+
+### R1D34 :: Monday, the 31st of December (24/34)
 Today's Progress: 
 
 Thoughts: 
