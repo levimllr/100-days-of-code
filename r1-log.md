@@ -203,8 +203,15 @@ Thoughts: Day 4 of Pajama Camp. This assignment was really tough. It was tough b
 Link to work: https://github.com/levimllr/cd50x-mashup
 
 ### R1D34 :: Monday, the 31st of December (24/34)
+Today's Progress: Decided on my final project for CS50x.
+
+Thoughts: Day 5 of Leasure Camp. In all seriousness, today was an easier day, in part because of the spirit of New Year's Eve, but also because I had no formal problem set to solve! Instead, I watched the final lecture of CS50x, and then putzed around for a few around before settling on an idea for my final project. While I was pretty attached to the idea of making a seating chart webapp, a pretty robust (albeit a bit awkard) one already exists! It occurred to me, we the zeitgeist of resolutions in the air, that a web-controlled habit tracker light would be a cool and useful tool. Introducing Unicorn Pi Habits, or Raspberry Hat Habits, or Unicorn Raspberry Tracker. My goal is to make a streamlined web app that allows users to track their habits on a website, and have a heatmap of their habits displayed on a Unicorn HAT RGB LED grid interfaced with a Raspberry Pi that also works as a server. I am so excited! 
+
+Link to work: https://github.com/levimllr/pi-habits
+
+### R1D35 :: Tuesday, the 1st of January (25/35)
 Today's Progress: 
 
-Thoughts: 
+Thoughts:
 
-Link to work: 
+Link to work:
