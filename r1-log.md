@@ -210,8 +210,15 @@ Thoughts: Day 5 of Leasure Camp. In all seriousness, today was an easier day, in
 Link to work: https://github.com/levimllr/pi-habits
 
 ### R1D35 :: Tuesday, the 1st of January (25/35)
+Today's Progress: Set up Raspberry Pi 3 Model B+, toyed with Unicorn HAT. Brainstormed Pi Habits user interface.
+
+Thoughts: Day 6 of Track Pants Camp. Most of the day ran away from me before I began coding (it was after 7 when I typed my first for loop). Time was spent cleaning, catching up with old friend, doing good, productive things. But we need to code! The Raspberry Pi platform and Unicorn HAT hardware are essential to this project, and spend some time setting them up. The makers of Unicorn HAT developed a web app called Unicorn Paint which is like MSPaint but with a hardware flash-biz-bang from the 8x8 LED grid. Unicorn Paint runs with Flask, too! It seems the essential pieces already exist and merely need be stitched together. I wonder how many software projects are like this. Is an hour of code really an hour of coding? I think it should be in my case, as I hardly qualify as literate. But I will say it is super motivating having a project and idea of my own and birthing it into the world with such (relative) each. What other craft is like this?!
+
+Link to work: https://github.com/levimllr/pi-habits
+
+### R1D35 :: Tuesday, the 1st of January (26/36)
 Today's Progress: 
 
-Thoughts:
+Thoughts: 
 
-Link to work:
+Link to work: 
