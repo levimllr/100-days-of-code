@@ -216,9 +216,16 @@ Thoughts: Day 6 of Track Pants Camp. Most of the day ran away from me before I b
 
 Link to work: https://github.com/levimllr/pi-habits
 
-### R1D35 :: Tuesday, the 1st of January (26/36)
+### R1D36 :: Wednesday, the 2nd of January (26/36)
+Today's Progress: Set up Raspberry Pi 3 Model B+'s (RPi's) server and remote desktop capabilities. Thought about Pi Habits website.
+
+Thoughts: Day 7 of Sneaker Camp. Not much work done today as most of the time was past sharing conversation with my wife's brother, a fellowship long overdue! I am realizing how crucial every moment, every precious minute, is to setting myself up for more, better job opportunities in six months, and so finally at 8 PM I began tearing into things, starting with setting up the RPi as a remote desktop and web server. The basic installations are done. A lot of this work lies in getting comfortable with tools and language. Thank God for Google! I need to make sure I get in at least an hour of hard coding every day, though, even if it doesn't deal with some project.
+
+Link to work: https://github.com/levimllr/pi-habits
+
+### R1D37 :: Thursday, the 3rd of January (27/37)
 Today's Progress: 
 
 Thoughts: 
 
-Link to work: 
+Link to work: https://github.com/levimllr/pi-habits
