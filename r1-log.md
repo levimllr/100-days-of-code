@@ -224,6 +224,13 @@ Thoughts: Day 7 of Sneaker Camp. Not much work done today as most of the time wa
 Link to work: https://github.com/levimllr/pi-habits
 
 ### R1D37 :: Thursday, the 3rd of January (27/37)
+Today's Progress: Integrated cal-heatmap with PiHabits and developed basic register/add/remove pages.
+
+Thoughts: Day 8 of Undershirt Camp. I cranked away today, almost all day, but not at the level of efficiency I had hoped. I wrangled and was nearly emotionally bested by a problem integrating a JavaScript module with my site package in the CS50 Cloud9 IDE. The afternoon proved to hold the solution when I took a gander at Chrome's console readout for the page. I spent the rest of my time coding CSS and getting parts to play between HTML, Python, and SQL. Next stop: export data to JavaScript and the Unicorn HAT on Raspberry Pi! I wish I had another week.
+
+Link to work: https://github.com/levimllr/pi-habits
+
+### R1D38 :: Friday, the 4th of January (28/38)
 Today's Progress: 
 
 Thoughts: 
