@@ -231,8 +231,8 @@ Thoughts: Day 8 of Undershirt Camp. I cranked away today, almost all day, but no
 Link to work: https://github.com/levimllr/pi-habits
 
 ### R1D38 :: Friday, the 4th of January (28/38)
-Today's Progress: 
+Today's Progress: Figured out some PHP and SQL stuff. Decided on Cal-Heatmap presentation. Worked on porting data.
 
-Thoughts: 
+Thoughts: Day 9 of Athletic Short Camp. Miscommunications betwen HTML, CSS, SQL, PHP, JS, and Python plagued me today, and I crawled. I solve one problem only to find it's not quite the right solution, or to find another issue staring me in the face. Am I learning?
 
 Link to work: https://github.com/levimllr/pi-habits
