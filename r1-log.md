@@ -236,3 +236,18 @@ Today's Progress: Figured out some PHP and SQL stuff. Decided on Cal-Heatmap pre
 Thoughts: Day 9 of Athletic Short Camp. Miscommunications betwen HTML, CSS, SQL, PHP, JS, and Python plagued me today, and I crawled. I solve one problem only to find it's not quite the right solution, or to find another issue staring me in the face. Am I learning?
 
 Link to work: https://github.com/levimllr/pi-habits
+
+### R1D39 :: Saturday, the 5th of January (29/39)
+Today's Progress: Solved the miscommunication between PHP and SQL by sidestepping around it.
+
+Thoughts: Day 10(ish) of Huarache Camp. I am learning! I solved two challenges on Hacker Array, stressed over which domain name to purchase for my portfolio site, and found it in my to face PiHabits in the late of evening. Within 5 minutes of revisiting my code, it occurred to me to simply call the Unix timestamp (a curious timestamp measuring the number of seconds passed since some date in the 70s) with Python and stick it in my SQL database instead of dealing with another mystery error in my PHP. I do need to tease apart the difference between PHP and SQL, because at my current distance they look the same: like a problem. One more major hurdle before a deserved refinement: exporting activity data from database to another program on the RPi so as to update the lighting on the Unicorn HAT. Never done anything like it, nor do I have explicit training doing so. Here's where the going gets fun!
+
+Link to work: https://github.com/levimllr/pi-habits
+
+### R1D40 :: Sunday, the 6th of January (30/40)
+Today's Progress:
+
+Thoughts: 
+
+Link to work: https://github.com/levimllr/pi-habits
+
