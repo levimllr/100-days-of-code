@@ -245,9 +245,15 @@ Thoughts: Day 10(ish) of Huarache Camp. I am learning! I solved two challenges o
 Link to work: https://github.com/levimllr/pi-habits
 
 ### R1D40 :: Sunday, the 6th of January (30/40)
-Today's Progress:
+Today's Progress: Worked through 2 HackerRank coding challenges, rolled the RPi website-hardware communication around.
 
-Thoughts: 
+Thoughts: Day 10 (really) of Break Camp. Didn't make much progress today. I made sure to keep up with HackerRank, which is teaching me that I don't quite have my programming fundamentals down (which means I am likely to get lost in the woods with this project). My real job starts back up tomorrow, and I am bracing for it. I fantasize about squeezing in an hour of code before work and spending all of my freedom afterwards on it. Let's crunch the numbers. Say I work from 7:15 AM to 4:15 PM, a respectable 9-hour day. I could wake up at 5 AM, workout and eat until 6, and code from 6 to 7 AM. Coming home at 4:30 PM, I could take an hour-long break and crack back into things between 5:30 and 8:30 PM, finally going to bed at 9. So the goal: 4 hours of action per weekday, barring any events. If consistent Monday through Thursday, take Friday evening off. How about the weekend? Keep (almost) the same schedule. Sleep by 9. Wake up by 6 AM. Get to coding by 8 AM. Stop for a break at noon. Pick back up at 1 PM and stop at 5. Pick back up at 6 and stop at 8. There's 10 hours. Could you do it again Sunday? There's another 10. You could possibly learn and code for 40 hours per week! Why am I writing about this? I need a set schedule. It's January 6th. School will be out in five months on June 6th. I should be confidently applying for jobs after three-four more months. I should be able to excel at my job at school with 45-hour workweeks. Break was fun and productive, but now it's time to tighten the screws even more. My goal by this coming Sunday the 13th is to be done with a minimum viable product for my CS50 final and apply for my certification.
 
 Link to work: https://github.com/levimllr/pi-habits
 
+### R1D41 :: Monday, the 7th of January (31/41)
+Today's Progress:
+
+Thoughts:
+
+Link to work:
