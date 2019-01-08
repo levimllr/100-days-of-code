@@ -252,8 +252,15 @@ Thoughts: Day 10 (really) of Break Camp. Didn't make much progress today. I made
 Link to work: https://github.com/levimllr/pi-habits
 
 ### R1D41 :: Monday, the 7th of January (31/41)
+Today's Progress: PiHabits site running on RPi. Attempts to communicate with hardware from server.
+
+Thoughts: A lofty goal of coding by 5:30 PM rolled into coding by 6:30, but we charged through to 8:30. I'm sorry to say I feel I could die by a thousand cuts. If it's not directory mistakes or user permissions it's missing libraries and plain bad beginner's code on my part. But we've got to keep up the discipline! My goal tomorrow: Have the server talking to the Pi Hardware, and have the hardware update with changes in the database. We can do it!
+
+Link to work: https://github.com/levimllr/pi-habits
+
+### R1D42 :: Tuesday, the 8th of January (32/42)
 Today's Progress:
 
 Thoughts:
 
-Link to work:
+Link to work: https://github.com/levimllr/pi-habits
