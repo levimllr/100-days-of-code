@@ -259,8 +259,17 @@ Thoughts: A lofty goal of coding by 5:30 PM rolled into coding by 6:30, but we c
 Link to work: https://github.com/levimllr/pi-habits
 
 ### R1D42 :: Tuesday, the 8th of January (32/42)
-Today's Progress:
+Today's Progress: Server communicates with hardware with admin permissions. Began building list/array for mapping time+activity data to LED+intensity.
 
-Thoughts:
+Thoughts: Not as much progress again as hoped. Didn't dive in until 7, but then cruised through 'til 10:30 with but a break to talk to my love who was driving home from the Bay. I fear I'm languishing in this project. I spent a while just figuring out how to get the Raspberry Pi to commit to Github. I feel like such a fool! And I feel like I'm running out of time. I have to, have to, have to make sure I'm workly intelligently and efficiently. That's the only way this homebrewed developer game can work.
+
+Link to work: https://github.com/levimllr/pi-habits
+
+### R1D43 :: Tuesday, the 8th of January (33/43)
+Today's Goal: Code from 6:45-7:45 AM. Create/implement time+activity list and map it to Unicorn HAT array.
+
+Today's Progress: 
+
+Thoughts: 
 
 Link to work: https://github.com/levimllr/pi-habits
