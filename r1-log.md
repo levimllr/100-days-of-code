@@ -265,11 +265,38 @@ Thoughts: Not as much progress again as hoped. Didn't dive in until 7, but then 
 
 Link to work: https://github.com/levimllr/pi-habits
 
-### R1D43 :: Tuesday, the 8th of January (33/43)
-Today's Goal: Code from 6:45-7:45 AM. Create/implement time+activity list and map it to Unicorn HAT array.
+### R1D43 :: Wednesday, the 9th of January (32/43)
+Today's Goal: Code in the morning! 6:00-7:00 AM.
 
-Today's Progress: 
+Today's Progress: None.
 
-Thoughts: 
+Thoughts: It was good to go out and volunteer to serve soup at the vigil. Talking with and meeting new people of different backgrounds is invigorating, nutrifying, edificating.
+
+Link to work: https://github.com/levimllr/pi-habits
+
+### R1D43 :: Thursday, the 10th of January (33/44)
+Today's Goal: Turn on the lights with the web app!
+
+Today's Progress: I did just that.
+
+Thoughts: Running the server as sudo, and getting my array ducks in a row, I managed to swiftly and simply get data from the SQL database to the pixel array. It struck me as effortless, after days of wandering in the desert. C'est la vie!
+
+Link to work: https://github.com/levimllr/pi-habits
+
+### R1D43 :: Friday, the 11th of January (34/45)
+Today's Goal: Make the web app visible from outside the Pi.
+
+Today's Progress: I did just that.
+
+Thoughts: A wandering through Google and StackFlow rendered a series of fixes for the RPi: adding lines to hosts and initalize files within the arcane /etc folder. Explicitly running the flask server at a certain IP address (flask run --host=0.0.0.0) was the critical move. Now I can access the site from any device in the network using the Pi's IP address and the appropriate port!
+
+Link to work: https://github.com/levimllr/pi-habits
+
+### R1D43 :: Saturday, the 12th of January (35/46)
+Today's Goal: Submit PiHabits, my CS50x final project, chart the next steps in studying computer science/development/programming, execute a few of those steps. Put in at least 8 solid hours of learning and coding.
+
+Today's Progress:
+
+Thoughts:
 
 Link to work: https://github.com/levimllr/pi-habits
