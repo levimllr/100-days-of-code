@@ -295,8 +295,26 @@ Link to work: https://github.com/levimllr/pi-habits
 ### R1D43 :: Saturday, the 12th of January (35/46)
 Today's Goal: Submit PiHabits, my CS50x final project, chart the next steps in studying computer science/development/programming, execute a few of those steps. Put in at least 8 solid hours of learning and coding.
 
+Today's Progress: I did it!
+
+Thoughts: PiHabits reached MVP (Minimum Viable Product) status and I kicked that dude out the door. I submitted my things to CS50x; here's hoping I pass and get my certificate. Now I'm at a loss. Do I study Python or JavaScript? I have less than five months until I move and three months until I should start applying for jobs.
+
+Link to work: https://github.com/levimllr/pi-habits
+
+### R1D43 :: Sunday, the 13th of January (36/47)
+Today's Goal: Submit Chart the next steps in studying computer science/development/programming, execute a few of those steps. Put in at least 8 solid hours of learning and coding.
+
+Today's Progress: 
+
+Thoughts:
+
+Link to work: 
+
+### R1D43 :: Monday, the 14th of January (37/48)
+Today's Goal: 
+
 Today's Progress:
 
 Thoughts:
 
-Link to work: https://github.com/levimllr/pi-habits
+Link to work: 
