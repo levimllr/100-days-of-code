@@ -302,16 +302,16 @@ Thoughts: PiHabits reached MVP (Minimum Viable Product) status and I kicked that
 Link to work: https://github.com/levimllr/pi-habits
 
 ### R1D43 :: Sunday, the 13th of January (36/47)
-Today's Goal: Submit Chart the next steps in studying computer science/development/programming, execute a few of those steps. Put in at least 8 solid hours of learning and coding.
+Today's Goal: Chart the next steps in studying computer science/development/programming, execute a few of those steps. Put in at least 8 solid hours of learning and coding.
 
-Today's Progress: 
+Today's Progress: Looked up jobs, decided on Python and JavaScript as a focus for the next month. Worked through hours of material in Udemy Python Bootcamp, or Python Udemy Bootcamp, or PUB.
 
-Thoughts:
+Thoughts: I felt better after looking at a few job postings online. I have 2+ years of experience with software development! I have managed small teams of programmers. I am fluent in the IoT. Bring. It. On. So, goals for the next 1-2 weeks. We're going to finish the old Python bootcamp started in the summer. It felt good going back to it; I've learned a few things. However, I have a long way to go. 
 
-Link to work: 
+Link to work: https://github.com/levimllr/Complete-Python-3-Bootcamp
 
 ### R1D43 :: Monday, the 14th of January (37/48)
-Today's Goal: 
+Today's Goal: Squeeze in at least an hour of work in the PUB. Review Milestone Project 1 and reach OOP HW. Check in on Digital Musicbox project and see about porting sculptures to Pi. Set up grading and management of freshmen.
 
 Today's Progress:
 
