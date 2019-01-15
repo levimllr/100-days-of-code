@@ -274,7 +274,7 @@ Thoughts: It was good to go out and volunteer to serve soup at the vigil. Talkin
 
 Link to work: https://github.com/levimllr/pi-habits
 
-### R1D43 :: Thursday, the 10th of January (33/44)
+### R1D44 :: Thursday, the 10th of January (33/44)
 Today's Goal: Turn on the lights with the web app!
 
 Today's Progress: I did just that.
@@ -283,7 +283,7 @@ Thoughts: Running the server as sudo, and getting my array ducks in a row, I man
 
 Link to work: https://github.com/levimllr/pi-habits
 
-### R1D43 :: Friday, the 11th of January (34/45)
+### R1D45 :: Friday, the 11th of January (34/45)
 Today's Goal: Make the web app visible from outside the Pi.
 
 Today's Progress: I did just that.
@@ -292,7 +292,7 @@ Thoughts: A wandering through Google and StackFlow rendered a series of fixes fo
 
 Link to work: https://github.com/levimllr/pi-habits
 
-### R1D43 :: Saturday, the 12th of January (35/46)
+### R1D46 :: Saturday, the 12th of January (35/46)
 Today's Goal: Submit PiHabits, my CS50x final project, chart the next steps in studying computer science/development/programming, execute a few of those steps. Put in at least 8 solid hours of learning and coding.
 
 Today's Progress: I did it!
@@ -301,7 +301,7 @@ Thoughts: PiHabits reached MVP (Minimum Viable Product) status and I kicked that
 
 Link to work: https://github.com/levimllr/pi-habits
 
-### R1D43 :: Sunday, the 13th of January (36/47)
+### R1D47 :: Sunday, the 13th of January (36/47)
 Today's Goal: Chart the next steps in studying computer science/development/programming, execute a few of those steps. Put in at least 8 solid hours of learning and coding.
 
 Today's Progress: Looked up jobs, decided on Python and JavaScript as a focus for the next month. Worked through hours of material in Udemy Python Bootcamp, or Python Udemy Bootcamp, or PUB.
@@ -310,11 +310,20 @@ Thoughts: I felt better after looking at a few job postings online. I have 2+ ye
 
 Link to work: https://github.com/levimllr/Complete-Python-3-Bootcamp
 
-### R1D43 :: Monday, the 14th of January (37/48)
+### R1D48 :: Monday, the 14th of January (37/48)
 Today's Goal: Squeeze in at least an hour of work in the PUB. Review Milestone Project 1 and reach OOP HW. Check in on Digital Musicbox project and see about porting sculptures to Pi. Set up grading and management of freshmen.
 
-Today's Progress:
+Today's Progress: Came close to the Hour (closing AWatch Activity Rings took priority). Tic-Tac-Toe works (with bonus features!) and we got a taste of OOP. Digital Musicbox is on pause (need to investigate Kivy!). Grading was a dumpster fire.
 
-Thoughts:
+Thoughts: I'm hungry to learn. Thinking about researching coding bootcamps. Web development seems the way into the software engineering industry. The To-Do list extends: setting up blog with WordPress and domain, finding a way to keep GitHub contributions up, keeping up with DPEA programmers, staying on top of it all.... It's days like today that will prove me out, though. Squeeze in those hours! It helps to have (a) class.
+
+Link to work: None.
+
+### R1D49 :: Tuesday, the 15th of January (38/49)
+Today's Goal: 
+
+Today's Progress: 
+
+Thoughts: 
 
 Link to work: 
