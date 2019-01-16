@@ -320,7 +320,16 @@ Thoughts: I'm hungry to learn. Thinking about researching coding bootcamps. Web 
 Link to work: None.
 
 ### R1D49 :: Tuesday, the 15th of January (38/49)
-Today's Goal: 
+Today's Goal: Finish OOP section of PUB, have activity on GitHub.
+
+Today's Progress: Done and done!
+
+Thoughts: Truthfully I only worked an hour today, even after being home by 4:15 PM. It's amazing how a workout, chat, dinner, round of XCOM, checking e-mails, and sex can lead one through three hours relatively quickly. Things feel "easy" now. Too easy. Not like CS50. The best thing I can do is crush this Udemy course and look for my next victim.
+
+Link to work: https://github.com/levimllr/tic-tac-py
+
+### R1D50 :: Wednesday, the 16th of January (39/50)
+Today's Goal: Reach and begin Milestone Project 2 of PUB.
 
 Today's Progress: 
 
