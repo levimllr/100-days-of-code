@@ -331,6 +331,15 @@ Link to work: https://github.com/levimllr/tic-tac-py
 ### R1D50 :: Wednesday, the 16th of January (39/50)
 Today's Goal: Reach and begin Milestone Project 2 of PUB.
 
+Today's Progress: 44% - 46% of PUB while completing section 9. Toyed with adding streak lights to PiHabits.
+
+Thoughts: A surprise dinner guest asnd drive to close my rings pushed me to start at 7:30 PM, and an intention to go to bed by 9:30 PM has me winding down at 8:30. I cracked open PiHabits to puzzle over adding an 8th light at the bottom of a week's column to indicate of 7 days of activity had been met. I made some progress in writing a loop, but it wasn't perfect. I finished a short unit in the PUB on modules and packages, which was useful, but will need some application to really sink in. I am proud of the fact that I got some coding in before the dinner guest came at 5:30. I'm not proud of the fact that it feels like I'm crawling through this material. I have to remember that I have another full-time job (and it's finals week no less). I also have to remember I have at most three months before I must start applying for jobs.
+
+Link to work: NA
+
+### R1D51 :: Thursday, the 17th of January (40/51)
+Today's Goal: Reach and begin Milestone Project 2 of PUB.
+
 Today's Progress: 
 
 Thoughts: 
