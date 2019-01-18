@@ -340,8 +340,17 @@ Link to work: NA
 ### R1D51 :: Thursday, the 17th of January (40/51)
 Today's Goal: Reach and begin Milestone Project 2 of PUB.
 
-Today's Progress: 
+Today's Progress: 46 - 49% of PUB. Started Milestone Project 2 of PUB. Fixed "Sunday bug" of the PiHAbits
+
+Thoughts: I don't feel like I'm really learning or internalizing much of this Complete Python Bootcamp. Rather, I feel like I'm being shown how things work. I did learn some useful information, though, about how spaces are preferable to tabs in coding, and about the general purpose and implementation of try-except statements in Python. And it's good practice to leave a bonus empty line at the end of your code! I felt into copy-pasta mode beginning work with the second Milestone Project and that experience was pretty empty. Object-Oriented Programming is definitely the next great frontier for me! Just gotta keep up the grind and crush this bootcamp so I can move on to another project.
+
+Link to work: NA
+
+### R1D52 :: Friday, the 18th of January (41/52)
+Today's Goal: Finish Milestone Project 2 of PUB. Git contribution =< 1.
+
+Today's Progress: 49- % of PUB. 
 
 Thoughts: 
 
-Link to work: 
+Link to work: NA
