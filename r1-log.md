@@ -346,11 +346,38 @@ Thoughts: I don't feel like I'm really learning or internalizing much of this Co
 
 Link to work: NA
 
-### R1D52 :: Friday, the 18th of January (41/52)
+### R1D52 :: Friday, the 18th of January (40/52)
 Today's Goal: Finish Milestone Project 2 of PUB. Git contribution =< 1.
 
-Today's Progress: 49- % of PUB. 
+Today's Progress: 49-49% of PUB. 
 
-Thoughts: 
+Thoughts: Took the day off. Tired. Gotta take a day off now and then.
 
 Link to work: NA
+
+### R1D53 :: Saturday, the 19th of January (41/53)
+Today's Goal: Finish Milestone Project 2 of PUB. Git contribution =< 1.
+
+Today's Progress: 49-49% of PUB. Contributed to Git! Added a streak light to PiHabits.
+
+Thoughts: Even after driving to and from LA to see relatives, I found the gumption to code. I implemented a feature I've imaging from the beginning: a light in the bottom-most row of the UnicornHAT (an 8x8 LED grid) that turned on when a whole week contains activity.
+
+Link to work: https://github.com/levimllr/pi-habits
+
+### R1D54 :: Sunday, the 20th of January (42/54)
+Today's Goal: Finish Milestone Project 2 of PUB. Git contribution =< 1.
+
+Today's Progress: 49-49% of PUB. Contributed to Git! Added comments to PiHabits code.
+
+Thoughts: I spent the better parts of the day hiking with my friend Tommy (so good to get out in Nature) and preparing to apply for a job at IXL Learning (an ed tech company in San Mateo). Over the course of the day, I've learned that I am a bit insecure about my new identity as an engineer/manager, rich in experience and skills, and full of potential to have a sharp resume in April if I keep the faith with regards to learning programming.
+
+Link to work: None
+
+### R1D55 :: Saturday, the 19th of January (43/55)
+Today's Goal: Finish Milestone Project 2 of PUB. Git contribution =< 1.
+
+Today's Progress: 49-49% of PUB. Contributed to Git! Added a streak light to PiHabits.
+
+Thoughts: Even after driving to and from LA to see relatives, I found some 
+
+Link to work: https://github.com/levimllr/pi-habits
