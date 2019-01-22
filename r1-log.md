@@ -373,11 +373,20 @@ Thoughts: I spent the better parts of the day hiking with my friend Tommy (so go
 
 Link to work: None
 
-### R1D55 :: Saturday, the 19th of January (43/55)
+### R1D55 :: Monday, the 21st of January (43/55)
 Today's Goal: Finish Milestone Project 2 of PUB. Git contribution =< 1.
 
-Today's Progress: 49-49% of PUB. Contributed to Git! Added a streak light to PiHabits.
+Today's Progress: 49-50% of PUB. Contributed to Git! Finished Milestone Project 2.
 
-Thoughts: Even after driving to and from LA to see relatives, I found some 
+Thoughts: Today I was... pragmatic? Lazy? My love and I put the finishing touches on my resume and cover letter for a job. After a couple-day hiatus, I dipped back into PUB and treated the middle project as a code-along project. I felt like I got it, but we'll see how the approach works. I want to get this course behind me and sink my teeth into some real problems! And explore JavaScript. The path is not so clear.
 
-Link to work: https://github.com/levimllr/pi-habits
+Link to work: https://github.com/levimllr/blackjack-python
+
+### R1D55 :: Monday, the 21st of January (44/56)
+Today's Goal: Finish Section 12 and 13 of PUB. Start Final Capstone Python Project Git contribution =< 1.
+
+Today's Progress: 50-% of PUB. 
+
+Thoughts: 
+
+Link to work: https://github.com/levimllr/
