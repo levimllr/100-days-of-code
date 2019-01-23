@@ -382,11 +382,20 @@ Thoughts: Today I was... pragmatic? Lazy? My love and I put the finishing touche
 
 Link to work: https://github.com/levimllr/blackjack-python
 
-### R1D55 :: Monday, the 21st of January (44/56)
+### R1D56 :: Tuesday, the 22nd of January (44/56)
 Today's Goal: Finish Section 12 and 13 of PUB. Start Final Capstone Python Project Git contribution =< 1.
 
-Today's Progress: 50-% of PUB. 
+Today's Progress: 50-89% of PUB (bunch of old material got checked off). Contributed to Git (fixed security issue). 
+
+Thoughts: Coming to the end of PUB, it's time to choose another final project (or two). What is something I want to showcase? My goal is to be on to the next thing by Sunday.
+
+Link to work: https://github.com/levimllr/
+
+### R1D57 :: Wednesday, the 23rd of January (45/57)
+Today's Goal: 
+
+Today's Progress: 
 
 Thoughts: 
 
-Link to work: https://github.com/levimllr/
+Link to work: 
