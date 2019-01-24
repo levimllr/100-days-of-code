@@ -392,10 +392,19 @@ Thoughts: Coming to the end of PUB, it's time to choose another final project (o
 Link to work: https://github.com/levimllr/
 
 ### R1D57 :: Wednesday, the 23rd of January (45/57)
-Today's Goal: 
+Today's Goal: Decide on Final Project and contribute to Git Hub.
+
+Today's Progress: Done and done.
+
+Thoughts: I solved the FizzBuzz problem, and for all the fuss about it, it was pretty easy. Gives me hope. Additionally, my sweet darling wife won work in the Bay, and so we are headed to the heart of this world! Together we teased out a final project: making a web app for Organic Soup Current (her current employ) that allows for easy surveying of client health and satisfaction. The idea is for a delivery driver to take one (or maybe two) minutes in the process of delivery to ask about client energy, activity, and sleep and their experience with the soup. Having an easy way to get data would allow for better operations. It will be great practice for me to play with the full stack of web development as well as algorithms for intellegently matching entries.
+
+Link to work: https://github.com/levimllr/osk-ruok
+
+### R1D58 :: Thursday, the 24rd of January (46/58)
+Today's Goal: Flesh out OSK project. Come up with name suggestor/word conversion cost. Git contrib.
 
 Today's Progress: 
 
 Thoughts: 
 
-Link to work: 
+Link to work: https://github.com/levimllr/osk-ruok
