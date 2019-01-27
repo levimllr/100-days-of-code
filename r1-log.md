@@ -403,8 +403,36 @@ Link to work: https://github.com/levimllr/osk-ruok
 ### R1D58 :: Thursday, the 24rd of January (46/58)
 Today's Goal: Flesh out OSK project. Come up with name suggestor/word conversion cost. Git contrib.
 
+Today's Progress: Commented on PiHabits code.
+
+Thoughts: When all else fails, revisit and better document existing code.
+
+Link to work: https://github.com/levimllr/osk-ruok
+
+### R1D59 :: Friday, the 25th of January (46/59)
+Today's Goal: Flesh out OSK project. Come up with name suggestor/word conversion cost. Git contrib.
+
+Today's Progress: Took the Friday evening off!
+
+Thoughts: Remember the Sabbath.
+
+Link to work: None
+
+### R1D60 :: Saturday, the 26th of January (47/60)
+Today's Goal: Complete "Build Responsive Real World Websites with HTML5 and CSS3". Git contrib.
+
+Today's Progress: Made it 60% of the way!
+
+Thoughts: Straight-up HTML+CSS is not as exciting for me. I like the power of real programming, of algorithms. That said, I recognize these tools and their use as essential skills. The ultimate aim is to actually improve the OSK website and create my own portfolio site. I feel like I need to start applying to jobs by early March, which is terrifying.
+
+Link to work: https://github.com/levimllr/omnifood-page
+
+### R1D61 :: Saturday, the 26th of January (48/61)
+Today's Goal: Complete "Build Responsive Real World Websites with HTML5 and CSS3". Git contrib. UnicornHAT game! Develop career plan for the next 6 weeks.
+
 Today's Progress: 
 
 Thoughts: 
 
-Link to work: https://github.com/levimllr/osk-ruok
+Link to work: https://github.com/levimllr/
+
