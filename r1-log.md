@@ -427,12 +427,29 @@ Thoughts: Straight-up HTML+CSS is not as exciting for me. I like the power of re
 
 Link to work: https://github.com/levimllr/omnifood-page
 
-### R1D61 :: Saturday, the 26th of January (48/61)
+### R1D61 :: Sunday, the 27th of January (48/61)
 Today's Goal: Complete "Build Responsive Real World Websites with HTML5 and CSS3". Git contrib. UnicornHAT game! Develop career plan for the next 6 weeks.
+
+Today's Progress: Came close to completion! 86% done. Just need to go over some implementation bits. Didn't touch the UnicornHAT game. In terms of a career plan, Jenny suggested I start applying in early April, which gives me two good months before the rubber meets the road. I'm nervous, unsure, and, at times, utterly confident. I have an interesting background, scattered yet strong. Can I play my hand into programming? The focus is on Javascript and Python. Upcoming projects: UnicornHAT game. DPEA exhibit TBD. My portfolio site. A ported and revamped OSK site.
+
+Thoughts: 
+
+Link to work: https://github.com/levimllr/omnifood-page/
+
+### R1D61 :: Monday, the 28th of January (49/62)
+Today's Goal: Complete "Build Responsive Real World Websites with HTML5 and CSS3". Git contrib. UnicornHAT game! Start "The Complete Javascript Course 2019".
+
+Today's Progress: Did those things! Sans the UnicornHAT game. 
+
+Thoughts: I do feel the itch to be thrown into a more freeform project like that. Jonas Schmedtmann's courses are on fleek, but they hold your hand pretty well the entire way (at least the HTML5-CSS3 course did). We'll see what Javascript looks like. Regardless, JS seems to be the thing to learn now. It's the most confusing language for me since C! I'm excited to tear into new territory, nervous about the lack of time and moving goalpost, and generally enjoying all of this work.
+
+Link to work: https://github.com/levimllr/omnifood-page/
+
+### R1D61 :: Tuesday, the 29th of January (50/63)
+Today's Goal: Complete section 2 of CJSC and/or hit 20% course completion. 3+ Git contrib. Conceptualize UnicornHAT game! Hone programming contribution focus at the DPEA (talk with Harlow). Sketch portfolio site elements.
 
 Today's Progress: 
 
 Thoughts: 
 
-Link to work: https://github.com/levimllr/
-
+Link to work: 
